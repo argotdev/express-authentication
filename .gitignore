@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.swc/
+.*.env
+.env.*
+.DS_Store
+```
